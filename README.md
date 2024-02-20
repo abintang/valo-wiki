@@ -3,14 +3,14 @@
 <img src="https://github.com/abintang/valo-wiki/assets/80501592/6fa63ca6-35d1-4d39-a303-ee96ec08425b" alt="Logo" width="80" height="80">
 
 ## Deskripsi Proyek
-Valo Wiki adalah aplikasi berbasis Flutter yang menyediakan informasi lengkap tentang Valorant, termasuk karakter, senjata, peta, dan player cards. Aplikasi ini bersifat open source, sehingga dapat digunakan oleh siapapun.
+Valo Wiki adalah aplikasi berbasis Flutter yang menyediakan informasi lengkap tentang Valorant, termasuk karakter, senjata, peta, player cards dan lain-lain. Aplikasi ini bersifat open source, sehingga dapat digunakan oleh siapapun.
 
 ![Overview](https://github.com/abintang/valo-wiki/assets/80501592/77b5dd44-8d04-4310-85d9-fa3c294ed4fb)
 
 ## Fitur Utama
 - Informasi lengkap tentang karakter, termasuk biografi dan ability.
 - Detail dan List Senjata yang dilengkapi dengan spesifikasi terkait senjata.
-- Deskripsi peta yang terdapat dalam permainan.
+- Deskripsi peta yang terdapat dalam game.
 - List komponen pendukung lainnya, seperti Gun Buddies, Sprays, dan Player Cards.
 - Kemampuan mengunduh player cards yang terdapat dalam aplikasi.
 
