@@ -1,12 +1,6 @@
-<style>
-  .valo-image {
-    width: 300px;
-    height: auto;
-  }
-</style>
 # Valo Wiki
 
-<img src="https://github.com/abintang/valo-wiki/assets/80501592/6fa63ca6-35d1-4d39-a303-ee96ec08425b" alt="Logo" width="30" height="30">
+<img src="https://github.com/abintang/valo-wiki/assets/80501592/6fa63ca6-35d1-4d39-a303-ee96ec08425b" alt="Logo" width="80" height="80">
 
 ## Deskripsi Proyek
 Valo Wiki adalah aplikasi berbasis Flutter yang menyediakan informasi lengkap tentang Valorant, termasuk karakter, senjata, peta, dan player cards. Aplikasi ini bersifat open source, sehingga dapat digunakan oleh siapapun.
@@ -23,12 +17,10 @@ Valo Wiki adalah aplikasi berbasis Flutter yang menyediakan informasi lengkap te
 ## Gambaran Aplikasi
 <img src="https://github.com/abintang/valo-wiki/assets/80501592/e5756dc5-9b43-4918-87b2-593847927666" alt="Screenshot 1" width="300" height="600">
 <img src="https://github.com/abintang/valo-wiki/assets/80501592/eeaa1633-78ca-440f-8ba3-c1a1de6f76e8" alt="Screenshot 2" width="300" height="600">
-![Screenshot 3](https://github.com/abintang/valo-wiki/assets/80501592/859e1d9c-5d94-4a4c-9e90-dcd53b740768){: .valo-image}
-![Screenshot 4](https://github.com/abintang/valo-wiki/assets/80501592/309dd6d7-9a01-4953-807a-4bae949f5db4){: .valo-image}
-![Screenshot 5](https://github.com/abintang/valo-wiki/assets/80501592/0d03f580-0028-42d3-9180-5e72265bc2f4){: .valo-image}
-![Screenshot 6](https://github.com/abintang/valo-wiki/assets/80501592/fd8e3b27-686d-4f99-ad0a-dc2f215f6ac2){: .valo-image}
-
-
+<img src="https://github.com/abintang/valo-wiki/assets/80501592/859e1d9c-5d94-4a4c-9e90-dcd53b740768" alt="Screenshot 3" width="300" height="600">
+<img src="https://github.com/abintang/valo-wiki/assets/80501592/309dd6d7-9a01-4953-807a-4bae949f5db4" alt="Screenshot 4" width="300" height="600">
+<img src="https://github.com/abintang/valo-wiki/assets/80501592/0d03f580-0028-42d3-9180-5e72265bc2f4" alt="Screenshot 5" width="300" height="600">
+<img src="https://github.com/abintang/valo-wiki/assets/80501592/fd8e3b27-686d-4f99-ad0a-dc2f215f6ac2" alt="Screenshot 6" width="300" height="600">
 
 ## Third Party
 - Public API yang digunakan: [Valorant API](https://valorant-api.com/)
